@@ -2,6 +2,9 @@
 
 This is a simple Tic Tac Toe game made by me using HTML, CSS and JavaScript.
 
+## Live Demo :
+(https://anshi-g.github.io/Tic-Tac-Toe/)
+
 ## Features
 
 - Two player game
